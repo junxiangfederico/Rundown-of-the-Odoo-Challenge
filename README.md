@@ -9,11 +9,11 @@ After completing the Odoo Challenge you will be redirected to a page suggesting 
 
 <img src="/assets/challenge11_3.png" width=80% height=80%> 
 
-You can access the challenge by inspecting the landing page of Odoo.
+You can access the challenge by inspecting the landing page of Odoo or by following this URL: "https://www.odoo.com/jobs/challenge/"
 
 <img src="/assets/inspection.png" width=80% height=80%> 
 
 ## What does this repository contain?
-This repository contains a rundown of my execution for the Odoo-challenges.
+This repository contains a rundown of my execution for the Odoo-challenges, and a number of scripts to resolve some of the challenges (credits to: pandaboy1123).
 
 
