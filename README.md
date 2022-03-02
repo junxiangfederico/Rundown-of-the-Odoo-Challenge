@@ -6,6 +6,9 @@ From Wikipedia: "Odoo is a suite of business management software tools including
 ## What is the Odoo Challenge?
 The Odoo Challenge is a series of CTF-style challenges, more specifically 11 challenges to be completed, mainly focused on algorithms and website scripting.
 After completing the Odoo Challenge you will be redirected to a page suggesting you submit your application to apply for an internship position.
+
+<img src="/assets/challenge11_3.png" width=80% height=80%> 
+
 You can access the challenge by inspecting the landing page of Odoo.
 
 <img src="/assets/inspection.png" width=80% height=80%> 
