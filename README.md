@@ -7,7 +7,8 @@ From Wikipedia: "Odoo is a suite of business management software tools including
 The Odoo Challenge is a series of CTF-style challenges, more specifically 11 challenges to be completed, mainly focused on algorithms and website scripting.
 After completing the Odoo Challenge you will be redirected to a page suggesting you submit your application to apply for an internship position.
 You can access the challenge by inspecting the landing page of Odoo.
-<img src="/assets/inspection.png" width=60% height=60%> 
+
+<img src="/assets/inspection.png" width=80% height=80%> 
 
 ## What does this repository contain?
 This repository contains a rundown of my execution for the Odoo-challenges.
