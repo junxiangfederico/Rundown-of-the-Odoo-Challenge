@@ -1,5 +1,5 @@
 def pi_input():
-    bit = int(input('Nthdecimal of the constant quantity that determines the area of a circle by multiplying it by the radius squared ?'))
+    bit = int(input('Nth decimal of the constant quantity that determines the area of a circle by multiplying it by the radius squared ?'))
     number1 = bit + 10
     b = 10 ** number1
     x1 = b * 4 // 5
